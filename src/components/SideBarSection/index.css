@@ -1,0 +1,7 @@
+.SideBarContainer {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  border: 1px solid blue;
+  height: 100vh;
+}
